@@ -201,10 +201,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👥 Authors
-
-- Your Name - [GitHub Profile](https://github.com/your-username)
-
 ## 🙏 Acknowledgments
 
 - Devanagari Handwritten Character Dataset
@@ -214,4 +210,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 ⭐ **If you find this project useful, please give it a star!**
-" 
