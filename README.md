@@ -4,7 +4,7 @@ A deep learning-based Optical Character Recognition (OCR) system for handwritten
 
 ## 📄 Research Paper
 
-📎 **Google Drive Link:** [Add your research paper link here]
+📎 **Google Drive Link:** https://drive.google.com/drive/folders/1ZfsNBpDB9_QTFsSOzpy7PBtdmgO5hBpr?usp=sharing
 
 <!-- Example: https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing -->
 
